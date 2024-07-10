@@ -1,0 +1,32 @@
+{
+    "OKTA_DOMAIN":"",
+    "OKTA_API_KEY":"",
+    "WEB_HOST":"",
+    "SPARKPOST_API_KEY":"",
+    "IN_FILE_PATH":"",
+    "PASSPHRASE":"",
+
+    "DB_NAME":"postgres_db",
+    "DB_USER":"postgres",
+    "DB_PASS":"test",
+    "DB_HOST":"localhost",
+    "DB_PORT":"5432",
+
+    "DB_URL":"postgresql+psycopy2://postgres:postgres:test@localhost/postgres_db",
+    
+    "sftp_host":"",
+    "sftp_user":"",
+    "sftp_password":"",
+    "sftp_path":"",
+    "sftp_port":"22",
+
+    "SENDGRID_API_KEY":"",
+    "WRONG_FILE":"",
+    "ERROR_REPORT":"",
+    "ERROR_METRICS":"",
+    "NO_GROUP_NUMBER":"",
+    "INVALID_GROUP_NUMBER":"",
+    "INVALID_ATTR":"",
+    "ADMIN_CC":"binitutor1@gmail.com",
+    "ADMIN_CC_1":"alemayehubini@gmail.com"
+}

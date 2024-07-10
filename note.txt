@@ -1,0 +1,5 @@
+
+TODO:
+- connect to local postgresql database
+- setup okta openID authentication
+
