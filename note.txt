@@ -1,0 +1,18 @@
+
+TODO:
+- flask REST api
+- setup postgresql
+
+home automation 
+collect temprature reading from different rooms 
+and saves them in database.
+calculate averages and trends over time.
+
+To run the flask app: 
+    flask run
+
+To connect to psql:
+    psql postgres://binialex@localhost/binialex
+
+To activate venv:
+    source venv/bin/activate
